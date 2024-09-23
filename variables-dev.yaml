@@ -1,0 +1,4 @@
+login_user: root
+login_host: db-dev.expense.fun
+login_password: ExpenseApp1
+DB_HOST: db-dev.expense.fun
