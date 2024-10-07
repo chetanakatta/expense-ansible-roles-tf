@@ -1,5 +1,6 @@
 login_user: root
 login_host: db-dev.expense.fun
 login_password: ExpenseApp1
+nexus_url: nexus.expense.fun:8081
 DB_HOST: db-dev.expense.fun
 BACKEND_API_URL: backend.app-dev.expense.fun
